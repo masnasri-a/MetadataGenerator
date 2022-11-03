@@ -1,0 +1,28 @@
+{
+  "name": "NASRI#00",
+  "symbol": "NAS",
+  "description": "Collection of 128 numbers on the blockchain. This is the number 43/128.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/Mr0YTIj8FDmwyIzqvABBQKuRuAYLDg1mbcHPJAFnuWU?ext=jpg",
+  "attributes": [
+
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "HLDCvULs7fhmFRcvo6GNJyKwZxQTNNLrpT7bxuD4yr4A",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Mr0YTIj8FDmwyIzqvABBQKuRuAYLDg1mbcHPJAFnuWU?ext=jpg",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "Nanas",
+    "family": "Nanas"
+  }
+}
